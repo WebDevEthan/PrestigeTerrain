@@ -594,7 +594,7 @@ that they form a hexagon */
     object-position: 0px -10px;
   }
   .positioning {
-    object-position: 0px -45px !important;
+    object-position: 0px 0px !important;
   }
   .team-name {
     flex-shrink: 0;
